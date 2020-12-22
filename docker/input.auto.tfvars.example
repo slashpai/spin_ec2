@@ -1,0 +1,11 @@
+aws_cli_profile = "default"
+
+region = "us-west-2"
+
+instance_count = 1
+
+instance_type = "t2.micro"
+
+ami = "ami-0e472933a1395e172"
+
+key_pair_name = "training"
