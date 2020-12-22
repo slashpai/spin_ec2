@@ -2,13 +2,15 @@
 
 [![terraform-lint](https://github.com/slashpai/spin_ec2/workflows/terraform-lint/badge.svg)](https://github.com/slashpai/spin_ec2/actions?query=workflow%3Aterraform-lint)
 
-## Terraform version
-
-Tested on *0.14.3*, earlier versions may work but no gurantee since some of the syntax could be different in old versions.
+[![md-links](https://github.com/slashpai/spin_ec2/workflows/md-links/badge.svg)](https://github.com/slashpai/spin_ec2/actions?query=workflow%3AMD-links)
 
 ## ec2 terraform templates
 
 - [docker](docker/README.md)
+
+## Terraform version
+
+Tested on **0.14.3**, earlier versions may work but no gurantee since some of the syntax could be different in older versions.
 
 ## Contributing
 
